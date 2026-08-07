@@ -1,8 +1,23 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
-@import './common.css';
-@import './header.css';
-@import './hero.css';
-@import './features.css';
-@import './team.css';
-@import './portfolio.css';
-@import './footer.css';
+body {
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #2e2f42;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
