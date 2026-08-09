@@ -21,3 +21,10 @@
   font-weight: 400;
   color: #434455;
 }
+.team-title {
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.111;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
