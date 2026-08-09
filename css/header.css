@@ -32,6 +32,15 @@ address .address-links {
   font-style: normal;
 }
 
-.nav .navigation-links:hover {
+.deployment .navigation-links:hover {
+  color: #404bbf;
+}
+.deployment .navigation-links:focus {
+  color: #404bbf;
+}
+.address .address-links:hover {
+  color: #404bbf;
+}
+.address .address-links:focus {
   color: #404bbf;
 }
