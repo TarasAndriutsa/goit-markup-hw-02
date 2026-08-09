@@ -1,0 +1,37 @@
+.logo-header .part-of-the-logo {
+  color: #4d5ae5;
+}
+.header {
+  background-color: #ffffff;
+}
+.logo-header {
+  line-height: 1.333;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+nav .navigation-links {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+address .address-links {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-style: normal;
+}
+
+.nav .navigation-links:hover {
+  color: #404bbf;
+}
