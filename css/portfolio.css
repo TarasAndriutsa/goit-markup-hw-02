@@ -1,0 +1,22 @@
+.portfolio {
+  background-color: #fff;
+}
+.portfolio-title {
+  line-height: 1.17222;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.portfolio-description {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #424455;
+}
+.portfolio-titles {
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  font-size: 20px;
+}
